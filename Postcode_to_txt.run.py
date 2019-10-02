@@ -9,8 +9,6 @@ random_postcode_dictionary = postcode_to_json('', 'http://api.postcodes.io/rando
 random_postcode_text = postcode_to_text('', 'http://api.postcodes.io/random/postcodes')
 random_postcode_status_code = postcode_status_request('', 'http://api.postcodes.io/random/postcodes')
 
-
-
 # Test set up, print the values so we can see them
 print(postcode_dictionary)
 print(postcode_text)
