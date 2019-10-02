@@ -22,3 +22,27 @@ ced: Maidstone Rural East
 ccg: NHS West Kent
 nuts: Mid Kent
 codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+postcode: TN27 9SF
+quality: 1
+eastings: 583693
+northings: 144228
+country: England
+nhs_ha: South East Coast
+longitude: 0.626069
+latitude: 51.167795
+european_electoral_region: South East
+primary_care_trust: West Kent
+region: South East
+lsoa: Maidstone 017B
+msoa: Maidstone 017
+incode: 9SF
+outcode: TN27
+parliamentary_constituency: Faversham and Mid Kent
+admin_district: Maidstone
+parish: Headcorn
+admin_county: Kent
+admin_ward: Headcorn
+ced: Maidstone Rural East
+ccg: NHS West Kent
+nuts: Mid Kent
+codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
