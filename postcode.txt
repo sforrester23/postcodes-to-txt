@@ -46,3 +46,259 @@ ced: Maidstone Rural East
 ccg: NHS West Kent
 nuts: Mid Kent
 codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+postcode: TN27 9SF
+quality: 1
+eastings: 583693
+northings: 144228
+country: England
+nhs_ha: South East Coast
+longitude: 0.626069
+latitude: 51.167795
+european_electoral_region: South East
+primary_care_trust: West Kent
+region: South East
+lsoa: Maidstone 017B
+msoa: Maidstone 017
+incode: 9SF
+outcode: TN27
+parliamentary_constituency: Faversham and Mid Kent
+admin_district: Maidstone
+parish: Headcorn
+admin_county: Kent
+admin_ward: Headcorn
+ced: Maidstone Rural East
+ccg: NHS West Kent
+nuts: Mid Kent
+codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+postcode: TN27 9SF
+quality: 1
+eastings: 583693
+northings: 144228
+country: England
+nhs_ha: South East Coast
+longitude: 0.626069
+latitude: 51.167795
+european_electoral_region: South East
+primary_care_trust: West Kent
+region: South East
+lsoa: Maidstone 017B
+msoa: Maidstone 017
+incode: 9SF
+outcode: TN27
+parliamentary_constituency: Faversham and Mid Kent
+admin_district: Maidstone
+parish: Headcorn
+admin_county: Kent
+admin_ward: Headcorn
+ced: Maidstone Rural East
+ccg: NHS West Kent
+nuts: Mid Kent
+codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+postcode: TN27 9SF
+quality: 1
+eastings: 583693
+northings: 144228
+country: England
+nhs_ha: South East Coast
+longitude: 0.626069
+latitude: 51.167795
+european_electoral_region: South East
+primary_care_trust: West Kent
+region: South East
+lsoa: Maidstone 017B
+msoa: Maidstone 017
+incode: 9SF
+outcode: TN27
+parliamentary_constituency: Faversham and Mid Kent
+admin_district: Maidstone
+parish: Headcorn
+admin_county: Kent
+admin_ward: Headcorn
+ced: Maidstone Rural East
+ccg: NHS West Kent
+nuts: Mid Kent
+codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+
+
+
+
+
+
+
+
+
+
+postcode: NN6 9PH
+quality: 1
+eastings: 480554
+northings: 272268
+country: England
+nhs_ha: East Midlands
+longitude: -0.818998
+latitude: 52.342583
+european_electoral_region: East Midlands
+primary_care_trust: Northamptonshire Teaching
+region: East Midlands
+lsoa: Daventry 005E
+msoa: Daventry 005
+incode: 9PH
+outcode: NN6
+parliamentary_constituency: Daventry
+admin_district: Daventry
+parish: Walgrave
+admin_county: Northamptonshire
+admin_ward: Walgrave
+ced: Moulton
+ccg: NHS Nene
+nuts: West Northamptonshire
+codes: {'admin_district': 'E07000151', 'admin_county': 'E10000021', 'admin_ward': 'E05009023', 'parish': 'E04006696', 'parliamentary_constituency': 'E14000660', 'ccg': 'E38000108', 'ced': 'E58001147', 'nuts': 'UKF24'}
+postcode: TN27 9SF
+quality: 1
+eastings: 583693
+northings: 144228
+country: England
+nhs_ha: South East Coast
+longitude: 0.626069
+latitude: 51.167795
+european_electoral_region: South East
+primary_care_trust: West Kent
+region: South East
+lsoa: Maidstone 017B
+msoa: Maidstone 017
+incode: 9SF
+outcode: TN27
+parliamentary_constituency: Faversham and Mid Kent
+admin_district: Maidstone
+parish: Headcorn
+admin_county: Kent
+admin_ward: Headcorn
+ced: Maidstone Rural East
+ccg: NHS West Kent
+nuts: Mid Kent
+codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+
+
+postcode: KY7 6BG
+quality: 1
+eastings: 329785
+northings: 701659
+country: Scotland
+nhs_ha: Fife
+longitude: -3.133324
+latitude: 56.20233
+european_electoral_region: Scotland
+primary_care_trust: Glenrothes and North East Fife Community Health Partnership
+region: None
+lsoa: Markinch East
+msoa: Markinch and Star
+incode: 6BG
+outcode: KY7
+parliamentary_constituency: Glenrothes
+admin_district: Fife
+parish: None
+admin_county: None
+admin_ward: Glenrothes North, Leslie and Markinch
+ced: None
+ccg: Glenrothes and North East Fife Community Health Partnership
+nuts: Clackmannanshire and Fife
+codes: {'admin_district': 'S12000047', 'admin_county': 'S99999999', 'admin_ward': 'S13002958', 'parish': 'S99999999', 'parliamentary_constituency': 'S14000036', 'ccg': 'S03000007', 'ced': 'S99999999', 'nuts': 'UKM72'}
+postcode: TN27 9SF
+quality: 1
+eastings: 583693
+northings: 144228
+country: England
+nhs_ha: South East Coast
+longitude: 0.626069
+latitude: 51.167795
+european_electoral_region: South East
+primary_care_trust: West Kent
+region: South East
+lsoa: Maidstone 017B
+msoa: Maidstone 017
+incode: 9SF
+outcode: TN27
+parliamentary_constituency: Faversham and Mid Kent
+admin_district: Maidstone
+parish: Headcorn
+admin_county: Kent
+admin_ward: Headcorn
+ced: Maidstone Rural East
+ccg: NHS West Kent
+nuts: Mid Kent
+codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+
+
+postcode: NN17 5AZ
+quality: 1
+eastings: 492602
+northings: 290327
+country: England
+nhs_ha: East Midlands
+longitude: -0.637189
+latitude: 52.503006
+european_electoral_region: East Midlands
+primary_care_trust: Northamptonshire Teaching
+region: East Midlands
+lsoa: Corby 003D
+msoa: Corby 003
+incode: 5AZ
+outcode: NN17
+parliamentary_constituency: Corby
+admin_district: Corby
+parish: Weldon
+admin_county: Northamptonshire
+admin_ward: Weldon & Gretton
+ced: Corby Rural
+ccg: NHS Corby
+nuts: North Northamptonshire
+codes: {'admin_district': 'E07000150', 'admin_county': 'E10000021', 'admin_ward': 'E05010275', 'parish': 'E04006631', 'parliamentary_constituency': 'E14000648', 'ccg': 'E38000037', 'ced': 'E58001120', 'nuts': 'UKF25'}
+postcode: TN27 9SF
+quality: 1
+eastings: 583693
+northings: 144228
+country: England
+nhs_ha: South East Coast
+longitude: 0.626069
+latitude: 51.167795
+european_electoral_region: South East
+primary_care_trust: West Kent
+region: South East
+lsoa: Maidstone 017B
+msoa: Maidstone 017
+incode: 9SF
+outcode: TN27
+parliamentary_constituency: Faversham and Mid Kent
+admin_district: Maidstone
+parish: Headcorn
+admin_county: Kent
+admin_ward: Headcorn
+ced: Maidstone Rural East
+ccg: NHS West Kent
+nuts: Mid Kent
+codes: {'admin_district': 'E07000110', 'admin_county': 'E10000016', 'admin_ward': 'E05004994', 'parish': 'E04004957', 'parliamentary_constituency': 'E14000700', 'ccg': 'E38000199', 'ced': 'E58000713', 'nuts': 'UKJ45'}
+
+
+postcode: CF32 0AP
+quality: 1
+eastings: 285631
+northings: 182733
+country: Wales
+nhs_ha: Cwm Taf Morgannwg University Health Board
+longitude: -3.650213
+latitude: 51.531884
+european_electoral_region: Wales
+primary_care_trust: Cwm Taf Morgannwg University Health Board
+region: None
+lsoa: Bridgend 008A
+msoa: Bridgend 008
+incode: 0AP
+outcode: CF32
+parliamentary_constituency: Ogmore
+admin_district: Bridgend
+parish: Cefn Cribwr
+admin_county: None
+admin_ward: Cefn Cribwr
+ced: None
+ccg: Cwm Taf Morgannwg University Health Board
+nuts: Bridgend and Neath Port Talbot
+codes: {'admin_district': 'W06000013', 'admin_county': 'W99999999', 'admin_ward': 'W05000602', 'parish': 'W04000632', 'parliamentary_constituency': 'W07000074', 'ccg': 'W11000030', 'ced': 'W99999999', 'nuts': 'UKL17'}

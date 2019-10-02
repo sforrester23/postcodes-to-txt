@@ -4,12 +4,9 @@ import json
 
 # Define function to change API URL to json dictionary
 def postcode_to_json(postcode, url):
-    try:
-        resp = requests.get(url+postcode)
-        return resp.json()
+    resp = requests.get(url+postcode)
+    return resp.json()
 
-    except KeyError as KeyErr:
-        print('That is not a valid postcode!', KeyErr)
 
 # Define function to change API URL to text
 def postcode_to_text(postcode, url):
